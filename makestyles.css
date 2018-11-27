@@ -1,0 +1,26 @@
+.center{
+    margin: auto;
+    width: 60%;
+    /* border: 3px solid #73AD21; */
+    padding: 10px;
+    text-align: center;
+  }
+
+.shirt{
+  width: 180px;
+}
+
+.pants{
+  margin-right: 45px;
+}
+
+.character{
+  float: right;
+  margin-right: 150px;
+  border: 2px solid red;
+}
+
+.closet{
+  float: left;
+  margin-left: 150px;
+}
